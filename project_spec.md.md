@@ -1,5 +1,8 @@
-### Technical stack:
+### Accounting System Project
+A system for SME companies to manage and visualize the cash flow through budget and expenses.
+Make management more efficient, proactive and less complex.  Optimize the use of resources
 
+### Technical stack:
 - Frontend: Nextjs, Typescript
 - Backend: Golang using the boilerplate in /home/tri/Coding/gin-boilerplate 
 
