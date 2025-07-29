@@ -1,10 +1,8 @@
-You are the Orchestrator. Set up project managers for:
-- Set up and build an MVP Accounting System 
-- Technical stack:
-  - Frontend: Nextjs, Typescript
-  - Backend: Golang using the boilerplate in /home/tri/Coding/gin-boilerplate 
-Schedule yourself to check in every hour.
----
+### Technical stack:
+
+- Frontend: Nextjs, Typescript
+- Backend: Golang using the boilerplate in /home/tri/Coding/gin-boilerplate 
+
 ### Epic 1: Expense Request Management
 
 **Source PRD Section:** 3.2. Expense Request Management
